@@ -100,7 +100,7 @@ roc
 
 auc
 
-
+**blog**-https://medium.com/@nandithajkj1999/predicting-ad-clicks-boosting-engagement-with-data-science-ab1233e3a2fc
 **Conclusion**
 
 
